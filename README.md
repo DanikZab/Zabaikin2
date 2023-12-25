@@ -3,5 +3,5 @@
 
 Немного текста 12321442111111111412222222222222222
 # Вот выделение
-Нейросеть stable_diffusion
+Нейросеть stable_diffusion Colab
 https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=xSKWBKFPArKS</
